@@ -1,0 +1,20 @@
+CREATE DATABASE PruevaCRUD;
+
+USE PruevaCRUD;
+GO
+CREATE TABLE Roles(
+	Id INT NOT NULL IDENTITY(1,1),
+	Nombre NVARCHAR (75),
+	Descripcion NVARCHAR (75),
+	PRIMARY KEY (Id)
+);
+GO
+CREATE TABLE Usuarios(
+	Id INT NOT NULL IDENTITY(1,1),
+	IdRoles INT NOT NULL,
+	Nombre NVARCHAR (75),
+	Correo NVARCHAR (75),
+	[Password] NVARCHAR (75),
+	FOREIGN KEY (IdRoles) REFERENCES Roles (Id),
+	PRIMARY KEY (Id)
+);
