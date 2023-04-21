@@ -1,0 +1,17 @@
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\bin\Debug\net6.0\CRUD.LogicaDeNegocio.deps.json
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\bin\Debug\net6.0\CRUD.LogicaDeNegocio.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\bin\Debug\net6.0\CRUD.LogicaDeNegocio.pdb
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\bin\Debug\net6.0\CRUD.AccesoADatos.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\bin\Debug\net6.0\CRUD.EntidadesDeNegocio.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\bin\Debug\net6.0\CRUD.AccesoADatos.pdb
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\bin\Debug\net6.0\CRUD.EntidadesDeNegocio.pdb
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\obj\Debug\net6.0\CRUD.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\obj\Debug\net6.0\CRUD.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\obj\Debug\net6.0\CRUD.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\obj\Debug\net6.0\CRUD.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\obj\Debug\net6.0\CRUD.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\obj\Debug\net6.0\CRUD.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\obj\Debug\net6.0\CRUD.LogicaDeNegocio.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\obj\Debug\net6.0\refint\CRUD.LogicaDeNegocio.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\obj\Debug\net6.0\CRUD.LogicaDeNegocio.pdb
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.LogicaDeNegocio\obj\Debug\net6.0\ref\CRUD.LogicaDeNegocio.dll

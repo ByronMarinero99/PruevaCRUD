@@ -1,0 +1,12 @@
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\bin\Debug\net6.0\CRUD.EntidadesDeNegocio.deps.json
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\bin\Debug\net6.0\CRUD.EntidadesDeNegocio.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\bin\Debug\net6.0\CRUD.EntidadesDeNegocio.pdb
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\obj\Debug\net6.0\CRUD.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\obj\Debug\net6.0\CRUD.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\obj\Debug\net6.0\CRUD.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\obj\Debug\net6.0\CRUD.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\obj\Debug\net6.0\CRUD.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\obj\Debug\net6.0\CRUD.EntidadesDeNegocio.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\obj\Debug\net6.0\refint\CRUD.EntidadesDeNegocio.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\obj\Debug\net6.0\CRUD.EntidadesDeNegocio.pdb
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.EntidadesDeNegocio\obj\Debug\net6.0\ref\CRUD.EntidadesDeNegocio.dll

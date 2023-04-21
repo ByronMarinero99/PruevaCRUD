@@ -1,0 +1,15 @@
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\bin\Debug\net6.0\CRUD.AccesoADatos.deps.json
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\bin\Debug\net6.0\CRUD.AccesoADatos.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\bin\Debug\net6.0\CRUD.AccesoADatos.pdb
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\bin\Debug\net6.0\CRUD.EntidadesDeNegocio.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\bin\Debug\net6.0\CRUD.EntidadesDeNegocio.pdb
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\obj\Debug\net6.0\CRUD.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\obj\Debug\net6.0\CRUD.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\obj\Debug\net6.0\CRUD.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\obj\Debug\net6.0\CRUD.AccesoADatos.AssemblyInfo.cs
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\obj\Debug\net6.0\CRUD.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\obj\Debug\net6.0\CRUD.AccesoADatos.csproj.CopyComplete
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\obj\Debug\net6.0\CRUD.AccesoADatos.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\obj\Debug\net6.0\refint\CRUD.AccesoADatos.dll
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\obj\Debug\net6.0\CRUD.AccesoADatos.pdb
+C:\Users\Byron\Desktop\PruevaCRUD\CRUD.AccesoADatos\obj\Debug\net6.0\ref\CRUD.AccesoADatos.dll
